@@ -1,0 +1,6 @@
+# Printing name for n times using for loop
+
+n = int(input())
+name = input()
+for i in range(0,5):
+  print(name,"\n")
